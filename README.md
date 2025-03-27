@@ -25,8 +25,7 @@ A Flow Matching model was implemented and trained using two different backbones 
 2. **Transformer Backbone**  
    - Based on a Vision Transformer (ViT) architecture with pretrained ImageNet weights.  
 
-Trained model checkpoints are available at:  
-[Google Drive - Model Checkpoints](https://drive.google.com/drive/folders/1nx47dQgX7yavo8oQ4e0-seyRaG1rDXY-?usp=sharing)
+Trained model checkpoints are available at:  [Google Drive - Model Checkpoints](https://drive.google.com/drive/folders/1nx47dQgX7yavo8oQ4e0-seyRaG1rDXY-?usp=sharing)  
 
 ---
 
