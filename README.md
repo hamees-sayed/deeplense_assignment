@@ -11,8 +11,8 @@ The results are measured based on the following parameters:
 
 | Model           | FID  | ODE Timesteps | Latency | Batch Size |
 |---------------|------|---------------|---------|------------|
-| **UNet**      | 34.8437 | 50            | 123ms   | 1          |
 | **Transformer** | 27.6961 | 50          | 109ms   | 1          |
+| **UNet**      | 34.8437 | 50            | 123ms   | 1          |
 
 ### Model Architecture  
 A Flow Matching model was implemented and trained using two different backbones for performance comparison:
