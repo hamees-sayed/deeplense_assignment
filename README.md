@@ -6,8 +6,8 @@
 The results are measured based on the following parameters:
 
 - `dtype`: `float16`
-- `torch.compile` with mode `reduce-overhead`
-- ODE Solver with `50` timesteps  
+- `torch.compile` with mode `reduce-overhead`.
+- ODE Solver used is `Euler` with `50` timesteps.   
 
 | Model           | FID  | ODE Timesteps | Latency | Batch Size |
 |---------------|------|---------------|---------|------------|
