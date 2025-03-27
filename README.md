@@ -1,6 +1,4 @@
-# DeepLense GSoC Assignment 
-
-# Diffusion and Classification Tasks
+### DeepLense GSoC Assignment 
 
 ## Task 4 - Diffusion
 
