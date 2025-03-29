@@ -13,7 +13,7 @@ The dataset consists of three types of lensing images:
 ### Preprocessing Approach  
 - Resized images to **256x256**, followed by center cropping to **224x224**.  
 - Applied **data augmentation** (training only), including random rotation (10 degrees) and horizontal flipping for better generalization.  
-- **Normalization** to scale pixel values, ensuring consistency across images.  
+- **Normalization** to scale pixel values with a mean and standard deviation of 0.5.  
 
 ### Model Architecture  
 Two CNN-based architectures were experimented with for performance comparison:
