@@ -27,13 +27,13 @@ Both models were initialized with **pretrained ImageNet weights**, and the final
 
 #### Test Accuracy  
 - **ResNet-34:** **96.39%** (0.9639)  
-- **EfficientNet-B3:** **92.24%** (0.9224)  
+- **EfficientNet-B3:** **95.88%** (0.9588)  
 
 #### AUC Scores  
 | Model            | No Substructure | Sphere Substructure | Vortex Substructure |
 |-----------------|----------------|----------------------|----------------------|
 | **ResNet-34**   | 0.99           | 0.99                 | 1.00                 |
-| **EfficientNet-B3** | 0.99      | 0.98                 | 0.99                 |
+| **EfficientNet-B3** | 0.99      | 0.99                 | 1.00                |
 
 ---  
 
